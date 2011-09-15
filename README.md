@@ -1,3 +1,13 @@
+# Ideas for this fork
+
+- Use a python based qrcode instead of googles http-api
+    - http://code.google.com/p/pyqrnative/source/browse/trunk/pyqrnative/src/PyQRNative.py
+- add a print_css config variable which allows you to define custom rules for printing without making a whole theme
+- add mathjax from https://github.com/sdiehl/landslide/commit/5c08b84a57b1666139cc765a1516ba905de7fbe0 (maybe without the CDN)
+
+
+------------------
+
 # Overview
 
 Landslide generates a slideshow using the slides that power
